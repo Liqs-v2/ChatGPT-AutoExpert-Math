@@ -1,11 +1,8 @@
 # ChatGPT AutoExpert
-by Dustin Miller • [Reddit](https://www.reddit.com/u/spdustin) • [Substack](https://spdustin.substack.com)
+based on [ChatGPT - AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) by Dustin Miller
+adjusted for math heavy use cases by [Tobias Lindenbauer](https://tobias.lindenbauer.me) • [Github](https://github.com/Liqs-v2)
 
 **License**: [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-_Elevating Conversational AI to Expert Level_
-
-_**Want to support these free prompts? [My Substack](https://spdustin.substack.com) offers paid subscriptions, that's the best way to show your appreciation.**_
 
 ## Introduction
 ChatGPT AutoExpert is a **_shockingly effective_** set of custom instructions aimed at enhancing the capabilities of GPT-4 and GPT-3.5-Turbo conversational models. These instructions maximize the depth and nuance in responses while minimizing general disclaimers and hand-holding. The ultimate objective is to provide users with accurate, context-rich information and an improved learning experience.
@@ -13,17 +10,18 @@ ChatGPT AutoExpert is a **_shockingly effective_** set of custom instructions ai
 ## Getting Started
 To get started with ChatGPT AutoExpert, choose which set of custom instructions you want to use:
 
-* [AutoExpert ("Standard Edition")](standard-edition)<br>(for non-coding tasks)
-* [AutoExpert ("Developer Edition")](developer-edition)<br>(requires GPT-4 with Advanced Data Analysis)
+* [AutoExpert ("Math Edition")](math-edition)<br>
 
 ## Features
 
-### ["Standard Edition"](standard-edition)
-- ✳️ **New to v5**: **Automatically Improves your Question**<br>
+### ["Math Edition"](math-edition)
+- ✳️ **New to math edition** <br>
+    Will respond to you using rendered LaTeX whenever using mathematical formulas of any kind.
+- **Automatically Improves your Question**<br>
     Many of us still compose ambiguous questions when asking ChatGPT for help. The AutoExpert will automatically rewrite your question to be precise, and to elicit the best response the experts can provide.
-- ✳️ **New to v5**: **Slash Commands**<br>
+- **Slash Commands**<br>
     Slash commands offer an easy way to interact with the AutoExpert system. Get summaries, ideas for additional questions, alternative viewpoints…even ask ChatGPT to review its own answer and suggest improvements.
-- ✳️ **New to v5**: **Auto-selects Frameworks and Methodologies**<br>
+- **Auto-selects Frameworks and Methodologies**<br>
     Designed to select a context-appropriate framework for formulating its best answers
 - **Maximized Depth and Nuance**<br>
     Receive high-quality, in-depth, and ✳️ **New to v5**: multi-turn responses (_**GPT-4 only**_) without compromising on the granularity of the information.
