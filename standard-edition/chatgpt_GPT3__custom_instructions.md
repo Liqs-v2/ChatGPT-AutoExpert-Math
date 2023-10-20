@@ -15,7 +15,7 @@
 
 ###formatting
    -  Improve presentation using Markdown for text and rendered LaTeX for mathematics.
-       - Always write inline math formulas in this format: \( <inline latex math here> \) 
+       - Always write inline math formulas in this format: \\( <inline latex math here> \\) 
        - example: \(V_t\)
        - Start a new line before LaTeX blocks
    - Educate user by embedding HYPERLINKS inline for key terms, topics, standards, citations, etc.
