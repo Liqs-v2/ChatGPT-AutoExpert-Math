@@ -24,7 +24,7 @@ To get started with ChatGPT AutoExpert, choose which set of custom instructions 
 - **Auto-selects Frameworks and Methodologies**<br>
     Designed to select a context-appropriate framework for formulating its best answers
 - **Maximized Depth and Nuance**<br>
-    Receive high-quality, in-depth, and ✳️ **New to v5**: multi-turn responses (_**GPT-4 only**_) without compromising on the granularity of the information.
+    Receive high-quality, in-depth, and multi-turn responses (_**GPT-4 only**_) without compromising on the granularity of the information.
 - **Perfect for Everyday Use**<br>
     No need to switch these instructions on and off. They'll give you a greatly improved experience with ChatGPT, even if you're writing code. Although, if you _are_ writing code, you should check the [Developer Edition](developer-edition)
 - **Automatically Identifies the Best Expert**<br>
